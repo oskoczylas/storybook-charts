@@ -5,4 +5,4 @@ Storybook is a tool for UI development. It makes development faster and easier b
 
 https://storybook.js.org/docs/react/get-started/introduction
 
-to run the folder type in the terminal: yarn storybook
+to run the project type in the terminal: yarn storybook
